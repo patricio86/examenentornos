@@ -1,14 +1,27 @@
-
+/**
+ * 
+ * @author Patricio
+ *
+ */
 public class SumaArray {
-	
+	/**
+	 * Clase para sumar los numeros de un array terminados en 1
+	 */
 	private int array [] = null;
 	
-	
+	/**
+	 * 
+	 * @param array constructor
+	 */
 	public SumaArray(int[] array) {
 		this.array = array;
 	}
 
 
+	/**
+	 * 
+	 * @return metodo suma
+	 */
 	public String suma(){
 		
 		String resultado="";

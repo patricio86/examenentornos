@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SumaArray","l":"suma()"},{"p":"<Unnamed>","c":"SumaArray","l":"SumaArray(int[])","url":"%3Cinit%3E(int[])"}]
